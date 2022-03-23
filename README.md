@@ -1,1 +1,1 @@
-# build_nft_minter
+# Dynamic NFT Minter
